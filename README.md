@@ -1,1 +1,1 @@
-# 123kristin-LCKT
+# LLM-Generated Annotations and Dual Contrastive Learning for Behavior-Gated Knowledge Tracing (LCKT)
